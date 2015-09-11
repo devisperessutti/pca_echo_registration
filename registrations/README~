@@ -1,0 +1,10 @@
+Script used to validate the PCA-based similarity metric.
+
+Example:
+
+python pca_registration.py -target_path target_dir/ -source_path source_path/ -dofout source_to_target.txt -out_path warped_source/ -v
+
+where the target images (one image for 3D volume) are stored in the target_dir/ and the source images in source_dir/.
+
+The source_to_target.txt file will contain teh estimated rigid parameters mapping source to target, while the warped source images 
+are saved in the out_path folder.
