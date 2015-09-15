@@ -6,5 +6,8 @@ python pca_registration.py -target_path target_dir/ -source_path source_path/ -d
 
 where the target images (one image for 3D volume) are stored in the target_dir/ and the source images in source_dir/.
 
-The source_to_target.txt file will contain teh estimated rigid parameters mapping source to target, while the warped source images 
+The source_to_target.txt file will contain the estimated rigid parameters mapping source to target, while the warped source images 
 are saved in the out_path folder.
+
+For details see:
+Peressutti et al. "Registration of multi-view echocardiography sequences using a subspace similarity measure", (Under review).
