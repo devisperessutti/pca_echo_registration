@@ -11,6 +11,8 @@ are saved in the out_path folder.
 
 For details see:
 Devis Peressutti*, Alberto Gomez, Graeme P. Penney and Andrew P. King, "Registration of multi-view echocardiography sequences using a subspace similarity measure", 
-under review.
+(under review).
 
-MATLAB code for the PCA-based registration can be found here (https://github.com/gomezalberto/Matlab.git)
+MATLAB code for the PCA-based registration can be found here (https://github.com/gomezalberto/Matlab.git).
+
+Data can be downloaded here ( http://dx.doi.org/10.5281/zenodo.30999 ).
