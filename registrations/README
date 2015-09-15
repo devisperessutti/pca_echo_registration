@@ -10,4 +10,7 @@ The source_to_target.txt file will contain the estimated rigid parameters mappin
 are saved in the out_path folder.
 
 For details see:
-Peressutti et al. "Registration of multi-view echocardiography sequences using a subspace similarity measure", (Under review).
+Devis Peressutti*, Alberto Gomez, Graeme P. Penney and Andrew P. King, "Registration of multi-view echocardiography sequences using a subspace similarity measure", 
+under review.
+
+MATLAB code for the PCA-based registration can be found here (https://github.com/gomezalberto/Matlab.git)
